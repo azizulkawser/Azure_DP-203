@@ -24,7 +24,7 @@ Here are some of the key projects am going to work on:
 
 ## Articles
 
-1. [How to create Azure Storage Account using CLI](articles/Article1-Create-Storage-Account.md)
+1. [How to create Azure Storage Account using CLI]([path_to_notebook.ipynb](https://github.com/azizulkawser/Azure_DP-203/blob/e31b27851d03aab4962192e2174394a067342108/DP-203%20-Data%20Engineering%20on%20Microsoft%20Azure/Data_Storage_in_Microsoft_Azure.ipynb)#Artilce_1)
 2. [Integrate Azure Storage Blob Client Library for Python](articles/Article2-Integrate-Blob-Library.md)
 3. [Add Azure Storage configuration to a Python application](articles/Article3-Add-Storage-Configuration.md)
 
