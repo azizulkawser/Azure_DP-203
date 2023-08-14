@@ -25,13 +25,13 @@ Here are some of the key projects am going to work on:
 ## Articles
 
 1. [How to create Azure Storage Account using CLI](https://github.com/azizulkawser/Azure_DP-203/blob/e31b27851d03aab4962192e2174394a067342108/DP-203%20-Data%20Engineering%20on%20Microsoft%20Azure/Data_Storage_in_Microsoft_Azure.ipynb#Artilce_1)
-2. [Integrate Azure Storage Blob Client Library for Python](articles/Article2-Integrate-Blob-Library.md)
-3. [Add Azure Storage configuration to a Python application](articles/Article3-Add-Storage-Configuration.md)
+2. [Integrate Azure Storage Blob Client Library for Python](https://github.com/azizulkawser/Azure_DP-203/blob/e31b27851d03aab4962192e2174394a067342108/DP-203%20-Data%20Engineering%20on%20Microsoft%20Azure/Data_Storage_in_Microsoft_Azure.ipynb#Artilce_2)
+3. [Add Azure Storage configuration to a Python application](https://github.com/azizulkawser/Azure_DP-203/blob/e31b27851d03aab4962192e2174394a067342108/DP-203%20-Data%20Engineering%20on%20Microsoft%20Azure/Data_Storage_in_Microsoft_Azure.ipynb#Artilce_3)
 
 ## Exercises
 
-1. [Exercise 1: Upload Image to Azure Storage using Python](exercises/Exercise1-Upload-Image.md)
-2. [Exercise 2: Upload Video to Azure Storage using Python](exercises/Exercise2-Upload-Video.md)
+1. [Exercise 1: Upload Image to Azure Storage using Python](https://github.com/azizulkawser/Azure_DP-203/blob/e31b27851d03aab4962192e2174394a067342108/DP-203%20-Data%20Engineering%20on%20Microsoft%20Azure/Data_Storage_in_Microsoft_Azure.ipynb#Exercise_1)
+2. [Exercise 2: Upload Video to Azure Storage using Python](https://github.com/azizulkawser/Azure_DP-203/blob/e31b27851d03aab4962192e2174394a067342108/DP-203%20-Data%20Engineering%20on%20Microsoft%20Azure/Data_Storage_in_Microsoft_Azure.ipynb#Exercise_2)
 
 ## Resources
 Here are some additional resources you might find helpful:
