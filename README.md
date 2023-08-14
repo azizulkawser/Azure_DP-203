@@ -41,10 +41,6 @@ Here are some additional resources you might find helpful:
 - [Azure Storage Documentation](https://docs.microsoft.com/en-us/azure/storage/)
 - [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python)
 
-## Contributing
-
-Contributions to this repository are welcome! Whether it's fixing a typo, adding a new tutorial, or sharing your own project, feel free to open a pull request. Please ensure your contributions align with the focus of this repository.
-
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
