@@ -37,7 +37,7 @@ Here are some of the key projects am going to work on:
 Here are some additional resources you might find helpful:
 
 - [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
-- [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/)
+- [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/certifications/exams/dp-203/?tab=tab-learning-paths)
 - [Azure Storage Documentation](https://docs.microsoft.com/en-us/azure/storage/)
 - [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python)
 
